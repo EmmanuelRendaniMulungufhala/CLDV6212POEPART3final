@@ -1,0 +1,206 @@
+﻿@model ABC_Retailer.Models.ViewModels.AdminDashboardViewModel
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Admin Dashboard</h2>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["ErrorMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+    <!-- Statistics Cards -->
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="card text-white bg-primary">
+                <div class="card-body">
+                    <h5 class="card-title">Total Customers</h5>
+                    <h2 class="mb-0">@Model.TotalCustomers</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-success">
+                <div class="card-body">
+                    <h5 class="card-title">Total Products</h5>
+                    <h2 class="mb-0">@Model.TotalProducts</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-info">
+                <div class="card-body">
+                    <h5 class="card-title">Total Orders</h5>
+                    <h2 class="mb-0">@Model.TotalOrders</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-warning">
+                <div class="card-body">
+                    <h5 class="card-title">Pending Orders</h5>
+                    <h2 class="mb-0">@Model.PendingOrders</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Total Revenue Card -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <div class="card text-white bg-dark">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Total Revenue</h5>
+                    <h2>@Model.TotalRevenue.ToString("C")</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quick Actions -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Quick Actions</h5>
+                </div>
+                <div class="card-body">
+                    <a href="@Url.Action("Orders", "Admin")" class="btn btn-primary me-2">
+                        <i class="bi bi-box-seam"></i> Manage Orders
+                    </a>
+                    <a href="@Url.Action("Customers", "Admin")" class="btn btn-success me-2">
+                        <i class="bi bi-people"></i> Manage Customers
+                    </a>
+                    <a href="@Url.Action("Products", "Admin")" class="btn btn-info me-2">
+                        <i class="bi bi-bag"></i> Manage Products
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recent Orders and Low Stock Products -->
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div class="card">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Recent Orders</h5>
+                    <a href="@Url.Action("Orders", "Admin")" class="btn btn-sm btn-primary">View All Orders</a>
+                </div>
+                <div class="card-body">
+                    @if (Model.RecentOrders != null && Model.RecentOrders.Any())
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-sm">
+                                <thead>
+                                    <tr>
+                                        <th>Customer</th>
+                                        <th>Product</th>
+                                        <th>Amount</th>
+                                        <th>Status</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var order in Model.RecentOrders)
+                                    {
+                                        <tr>
+                                            <td>@order.CustomerName</td>
+                                            <td>@order.ProductName</td>
+                                            <td>@order.TotalPrice.ToString("C")</td>
+                                            <td>
+                                                <span class="badge bg-@(order.Status == "Completed" ? "success" : order.Status == "PROCESSED" ? "info" : "warning")">
+                                                    @order.Status
+                                                </span>
+                                            </td>
+                                            <td>
+                                                @if (order.Status == "Pending")
+                                                {
+                                                    <form asp-action="UpdateOrderStatus" method="post" class="d-inline">
+                                                        @Html.AntiForgeryToken()
+                                                        <input type="hidden" name="orderId" value="@order.RowKey" />
+                                                        <input type="hidden" name="status" value="PROCESSED" />
+                                                        <button type="submit" class="btn btn-sm btn-success">Mark as Processed</button>
+                                                    </form>
+                                                }
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <p class="text-muted">No recent orders</p>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Low Stock Products</h5>
+                    <a href="@Url.Action("Products", "Admin")" class="btn btn-sm btn-primary">View All Products</a>
+                </div>
+                <div class="card-body">
+                    @if (Model.LowStockProducts != null && Model.LowStockProducts.Any())
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-sm">
+                                <thead>
+                                    <tr>
+                                        <th>Product</th>
+                                        <th>Stock</th>
+                                        <th>Price</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var product in Model.LowStockProducts)
+                                    {
+                                        <tr>
+                                            <td>@product.ProductName</td>
+                                            <td>
+                                                <span class="badge bg-@(product.StockAvailable == 0 ? "danger" : "warning")">
+                                                    @product.StockAvailable
+                                                </span>
+                                            </td>
+                                            <td>@product.Price.ToString("C")</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <p class="text-muted">All products have sufficient stock</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Auto-dismiss alerts after 5 seconds
+        setTimeout(function() {
+            $('.alert').fadeOut('slow');
+        }, 5000);
+    </script>
+} 

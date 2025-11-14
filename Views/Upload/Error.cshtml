@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Upload Error";
+}
+
+<h2>Upload Failed ❌</h2>
+
+<p>Sorry, there was a problem uploading your file.</p>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <p><strong>Error:</strong> @ViewBag.ErrorMessage</p>
+}
+
+<a asp-action="Index" class="btn btn-secondary">Try Again</a>

@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Upload Success";
+}
+
+<h2>Upload Successful ✅</h2>
+
+<p>Your file has been uploaded to Azure Blob Storage.</p>
+
+@if (ViewBag.FileUrl != null)
+{
+    <p><strong>File URL:</strong> <a href="@ViewBag.FileUrl" target="_blank">@ViewBag.FileUrl</a></p>
+}
+
+<a asp-action="Index" class="btn btn-secondary">Upload Another</a>

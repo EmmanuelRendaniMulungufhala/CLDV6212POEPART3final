@@ -1,0 +1,14 @@
+﻿@model ABC_Retailer.Models.Customer
+@{
+    ViewData["Title"] = "Delete Customer";
+}
+
+<h2>Delete Customer</h2>
+<p>Are you sure you want to delete <strong>@Model.Name</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="PartitionKey" />
+    <input type="hidden" asp-for="RowKey" />
+    <button class="btn btn-danger">Delete</button>
+    <a href="/Customer" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,272 @@
+﻿@model IEnumerable<ABC_Retailer.Models.FileUpload>
+@{
+    ViewData["Title"] = "Upload Proof of Payment";
+}
+
+<h1>Upload Proof of Payment</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["ErrorMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert @(ViewBag.IsSuccess == true ? "alert-success" : "alert-danger") alert-dismissible fade show" role="alert">
+        @ViewBag.Message
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h5 class="card-title mb-0">
+                    <i class="fas fa-upload"></i> Upload New File
+                </h5>
+            </div>
+            <div class="card-body">
+                <form asp-action="Index" method="post" enctype="multipart/form-data" id="uploadForm">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <label for="CustomerName" class="form-label">Customer Name</label>
+                        <input type="text" name="CustomerName" class="form-control" placeholder="Enter customer name" value="@TempData["CustomerName"]" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="OrderId" class="form-label">Order ID</label>
+                        <input type="text" name="OrderId" class="form-control" placeholder="Enter order ID" value="@TempData["OrderId"]" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="ProofOfPayment" class="form-label">Proof of Payment File *</label>
+                        <input type="file" name="ProofOfPayment" class="form-control" required
+                               accept=".pdf,.jpg,.jpeg,.png,.doc,.docx" />
+                        <div class="form-text">
+                            <small>Allowed file types: PDF, JPG, JPEG, PNG, DOC, DOCX (Maximum size: 10MB)</small>
+                        </div>
+                    </div>
+
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            <i class="fas fa-cloud-upload-alt"></i> Upload File
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header bg-info text-white">
+                <h5 class="card-title mb-0">
+                    <i class="fas fa-info-circle"></i> Upload Instructions
+                </h5>
+            </div>
+            <div class="card-body">
+                <h6>How to upload:</h6>
+                <ol class="small">
+                    <li>Enter the customer name</li>
+                    <li>Provide the order ID (if available)</li>
+                    <li>Select a proof of payment file</li>
+                    <li>Click "Upload File" to submit</li>
+                </ol>
+
+                <h6>Accepted File Types:</h6>
+                <ul class="small">
+                    <li>PDF documents (.pdf)</li>
+                    <li>Images (.jpg, .jpeg, .png)</li>
+                    <li>Word documents (.doc, .docx)</li>
+                </ul>
+
+                <div class="alert alert-warning small">
+                    <strong>Note:</strong> Maximum file size is 10MB. Files are stored securely and can be accessed later.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr class="my-4" />
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>
+        <i class="fas fa-files"></i> Uploaded Files
+        @if (Model != null && Model.Any())
+        {
+            <span class="badge bg-primary fs-6">@Model.Count() files</span>
+        }
+    </h2>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>Customer Name</th>
+                    <th>Order ID</th>
+                    <th>File Name</th>
+                    <th>Uploaded At</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.OrderByDescending(u => u.Timestamp))
+                {
+                    <tr>
+                        <td>
+                            <strong>@item.CustomerName</strong>
+                        </td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.OrderId) && item.OrderId != "No Order ID")
+                            {
+                                <code>@item.OrderId</code>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Not provided</span>
+                            }
+                        </td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.FileUrl))
+                            {
+                                <span class="text-primary">
+                                    <i class="fas fa-file"></i>
+                                    @System.IO.Path.GetFileName(item.FileUrl)
+                                </span>
+                            }
+                            else
+                            {
+                                <span class="text-muted">No file attached</span>
+                            }
+                        </td>
+                        <td>
+                            <small class="text-muted">
+                                @item.Timestamp?.ToLocalTime().ToString("MMM dd, yyyy h:mm tt")
+                            </small>
+                        </td>
+                        <td>
+                            <div class="btn-group btn-group-sm" role="group">
+                                @if (!string.IsNullOrEmpty(item.FileUrl))
+                                {
+                                    <a href="@item.FileUrl" target="_blank" class="btn btn-outline-primary"
+                                       title="View File">
+                                        <i class="fas fa-eye"></i> View
+                                    </a>
+                                }
+                                <a asp-action="Download" asp-route-id="@item.RowKey"
+                                   class="btn btn-outline-success" title="Download File">
+                                    <i class="fas fa-download"></i> Download
+                                </a>
+                                <form asp-action="Delete" method="post" class="d-inline">
+                                    <input type="hidden" name="id" value="@item.RowKey" />
+                                    <button type="submit" class="btn btn-outline-danger"
+                                            onclick="return confirm('Are you sure you want to delete this upload?')"
+                                            title="Delete Upload">
+                                        <i class="fas fa-trash"></i> Delete
+                                    </button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="alert alert-info d-flex justify-content-between align-items-center">
+        <div>
+            <i class="fas fa-database"></i>
+            <strong>Total Storage:</strong> @Model.Count() uploaded files
+        </div>
+        @if (Model.Any())
+        {
+            <small>
+                Last upload: @Model.OrderByDescending(u => u.Timestamp).First().Timestamp?.ToLocalTime().ToString("MMM dd, yyyy 'at' h:mm tt")
+            </small>
+        }
+    </div>
+}
+else
+{
+    <div class="alert alert-info text-center py-5">
+        <div class="py-3">
+            <i class="fas fa-inbox fa-3x text-muted mb-3"></i>
+            <h4>No Files Uploaded Yet</h4>
+            <p class="mb-3">You haven't uploaded any files yet. Use the form above to upload your first proof of payment.</p>
+            <div class="small text-muted">
+                <i class="fas fa-lightbulb"></i>
+                Tip: Uploaded files will appear here immediately after successful upload.
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    <script>
+        // Clear alerts when form is submitted
+        document.getElementById('uploadForm').addEventListener('submit', function() {
+            const alerts = document.querySelectorAll('.alert.alert-dismissible');
+            alerts.forEach(alert => {
+                alert.remove();
+            });
+        });
+
+        // File size validation
+        const fileInput = document.querySelector('input[type="file"]');
+        if (fileInput) {
+            fileInput.addEventListener('change', function(e) {
+                const file = e.target.files[0];
+                if (file) {
+                    // Check file size (10MB limit)
+                    if (file.size > 10 * 1024 * 1024) {
+                        alert('File size must be less than 10MB. Your file is ' +
+                              (file.size / (1024 * 1024)).toFixed(2) + 'MB.');
+                        e.target.value = '';
+                        return;
+                    }
+
+                    // Check file type
+                    const allowedExtensions = ['.pdf', '.jpg', '.jpeg', '.png', '.doc', '.docx'];
+                    const fileExtension = '.' + file.name.split('.').pop().toLowerCase();
+                    if (!allowedExtensions.includes(fileExtension)) {
+                        alert('Please select a valid file type: PDF, JPG, JPEG, PNG, DOC, or DOCX.');
+                        e.target.value = '';
+                        return;
+                    }
+
+                    // Show file info
+                    console.log('File selected:', file.name, 'Size:', (file.size / 1024).toFixed(2) + 'KB');
+                }
+            });
+        }
+
+        // Auto-dismiss alerts after 5 seconds
+        setTimeout(function() {
+            const alerts = document.querySelectorAll('.alert.alert-dismissible');
+            alerts.forEach(alert => {
+                const bsAlert = new bootstrap.Alert(alert);
+                bsAlert.close();
+            });
+        }, 5000);
+    </script>
+
+    <!-- Bootstrap JavaScript for alert dismissal -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+}

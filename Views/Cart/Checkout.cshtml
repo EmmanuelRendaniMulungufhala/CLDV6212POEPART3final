@@ -1,0 +1,181 @@
+﻿@model IEnumerable<ABC_Retailer.Models.Cart>
+
+@{
+    ViewData["Title"] = "Checkout";
+    var cartTotal = Model?.Sum(item => item.Quantity * item.UnitPrice) ?? 0;
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">
+        <i class="bi bi-credit-card-fill"></i> Checkout
+    </h2>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["ErrorMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+    <div class="row">
+        <!-- Order Summary -->
+        <div class="col-md-8">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="bi bi-list-check"></i> Order Summary</h5>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Product</th>
+                                    <th>Price</th>
+                                    <th>Quantity</th>
+                                    <th>Subtotal</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model != null && Model.Any())
+                                {
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td><strong>@item.ProductName</strong></td>
+                                            <td>R @item.UnitPrice.ToString("N2")</td>
+                                            <td>@item.Quantity</td>
+                                            <td>R @((item.Quantity * item.UnitPrice).ToString("N2"))</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                            <tfoot>
+                                <tr class="table-light">
+                                    <td colspan="3" class="text-end"><strong>Total:</strong></td>
+                                    <td><strong>R @cartTotal.ToString("N2")</strong></td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Shipping Information -->
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="bi bi-truck"></i> Shipping Information</h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="ProcessCheckout" method="post">
+                        @Html.AntiForgeryToken()
+
+                        <div class="mb-3">
+                            <label class="form-label">Full Name</label>
+                            <input type="text" class="form-control"
+                                   value="@User.FindFirst(System.Security.Claims.ClaimTypes.GivenName)?.Value @User.FindFirst(System.Security.Claims.ClaimTypes.Surname)?.Value"
+                                   readonly />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Email</label>
+                            <input type="email" class="form-control"
+                                   value="@User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value"
+                                   readonly />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="shippingAddress" class="form-label">Shipping Address</label>
+                            <textarea id="shippingAddress" name="shippingAddress" class="form-control"
+                                      rows="3" placeholder="Enter your shipping address" required></textarea>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="phoneNumber" class="form-label">Phone Number</label>
+                            <input type="tel" id="phoneNumber" name="phoneNumber" class="form-control"
+                                   placeholder="Enter your phone number" required />
+                        </div>
+
+                        <div class="alert alert-info">
+                            <i class="bi bi-info-circle-fill"></i>
+                            <strong>Note:</strong> This is a demo checkout. No actual payment will be processed.
+                        </div>
+
+                        <div class="d-flex justify-content-between mt-4">
+                            <a href="@Url.Action("Index", "Cart")" class="btn btn-secondary">
+                                <i class="bi bi-arrow-left"></i> Back to Cart
+                            </a>
+                            <button type="submit" class="btn btn-success btn-lg">
+                                <i class="bi bi-check-circle"></i> Place Order
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Order Total Sidebar -->
+        <div class="col-md-4">
+            <div class="card sticky-top" style="top: 20px;">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0"><i class="bi bi-receipt"></i> Order Total</h5>
+                </div>
+                <div class="card-body">
+                    <div class="d-flex justify-content-between mb-2">
+                        <span>Subtotal:</span>
+                        <strong>R @cartTotal.ToString("N2")</strong>
+                    </div>
+                    <div class="d-flex justify-content-between mb-2">
+                        <span>Shipping:</span>
+                        <strong>FREE</strong>
+                    </div>
+                    <div class="d-flex justify-content-between mb-2">
+                        <span>Tax:</span>
+                        <strong>R 0.00</strong>
+                    </div>
+                    <hr>
+                    <div class="d-flex justify-content-between">
+                        <h5>Total:</h5>
+                        <h5 class="text-primary">R @cartTotal.ToString("N2")</h5>
+                    </div>
+
+                    <div class="mt-4">
+                        <p class="text-muted small mb-0">
+                            <i class="bi bi-shield-check"></i> Secure Checkout
+                        </p>
+                        <p class="text-muted small mb-0">
+                            <i class="bi bi-truck"></i> Free Shipping on all orders
+                        </p>
+                        <p class="text-muted small mb-0">
+                            <i class="bi bi-arrow-return-left"></i> 30-day return policy
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card mt-3">
+                <div class="card-body text-center">
+                    <p class="mb-2"><small>Need help?</small></p>
+                    <button class="btn btn-outline-primary btn-sm">
+                        <i class="bi bi-question-circle"></i> Contact Support
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        setTimeout(function() {
+            $('.alert').fadeOut('slow');
+        }, 5000);
+    </script>
+}
+```
+
+## Complete Views/Cart Folder Structure:
+```
+Views/Cart/
+├── Index.cshtml ✅ (already exists)
+└── Checkout.cshtml ✅ (CREATE THIS)

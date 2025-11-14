@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ABC_Retailer.Models.Order>
+@{
+    ViewData["Title"] = "My Orders";
+}
+
+<h2>My Orders</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+@if (Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Quantity</th>
+                    <th>Total Price</th>
+                    <th>Order Date</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.ProductName</td>
+                        <td>@order.Quantity</td>
+                        <td>@order.TotalPrice.ToString("C")</td>
+                        <td>@order.OrderDate.ToString("yyyy-MM-dd")</td>
+                        <td>
+                            <span class="badge bg-@(order.Status == "Completed" ? "success" : "warning")">
+                                @order.Status
+                            </span>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="alert alert-info">
+        <h4>No Orders Yet</h4>
+        <p>You haven't placed any orders yet.</p>
+        <a asp-action="CreateOrder" class="btn btn-primary">Place Your First Order</a>
+    </div>
+}

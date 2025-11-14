@@ -1,0 +1,72 @@
+﻿@model ABC_Retailer.Models.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to ABC Retailer</h1>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    }
+
+    <div class="row mt-5">
+        <div class="col-md-3">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Total Customers</h5>
+                    <h2>@Model.CustomerCount</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Total Products</h5>
+                    <h2>@Model.ProductCount</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-info mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Total Orders</h5>
+                    <h2>@Model.OrderCount</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-warning mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Total Revenue</h5>
+                    <h2>@Model.TotalRevenue.ToString("C")</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @if (Model.FeaturedProducts.Any())
+    {
+        <div class="row mt-5">
+            <div class="col-12">
+                <h3>Featured Products</h3>
+                <div class="row">
+                    @foreach (var product in Model.FeaturedProducts)
+                    {
+                        <div class="col-md-4 mb-3">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">@product.ProductName</h5>
+                                    <p class="card-text">@product.Description</p>
+                                    <p class="card-text"><strong>@product.Price.ToString("C")</strong></p>
+                                    <p class="card-text">Stock: @product.StockAvailable</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>

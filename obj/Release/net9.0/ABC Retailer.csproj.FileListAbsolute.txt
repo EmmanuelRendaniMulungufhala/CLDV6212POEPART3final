@@ -1,0 +1,649 @@
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\appsettings.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.staticwebassets.runtime.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.exe
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.deps.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.runtimeconfig.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.pdb
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Data.Tables.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Identity.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Storage.Blobs.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Storage.Common.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Storage.Files.Shares.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Storage.Queues.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Azure.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Identity.Client.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.IO.Hashing.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\scopedcss\bundle\ABC Retailer.styles.css
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\scopedcss\projectbundle\ABC Retailer.bundle.scp.css
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\sgsjt51fvw-b9sayid5wm.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ooz3q8mzvn-61n19gt1b8.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\k7awvsdfyd-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\u97qqefwuk-bqjiyaj88i.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\b6r5j7ty8o-c2jlpeoesf.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\zrrs12so4g-erw9l3u2r3.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\d9cqnkzr06-aexeepp0ev.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\u03k7sojog-d7shbmvgxk.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\8xkbycdp7n-ausgxo2sd3.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\bewmne81e4-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\9fnc0omrsq-cosvhxvwiu.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\g50mi2mm6w-ub07r2b239.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\hg15cen0v8-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\lwydodvvjy-b7pk76d08c.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\xlhvzsd0tx-fsbi9cje9m.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\rcb6d41k10-rzd6atqjts.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ioqnxnchyu-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\u2d0bnu6ry-dxx9fxp4il.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\5ul0xvzca0-jd9uben2k1.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\w8o3ozrlll-khv3u5hwcm.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ran7y26h7q-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\zbv1t6lv3x-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\wv5z8v6h6v-c2oey78nd0.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\fg9m5tok5k-tdbxkamptv.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\5v77vs8ywo-j5mq2jizvt.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ymudlzcvo4-06098lyss8.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\7af1cxkega-nvvlpmu67g.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\qqdq2d8vyy-s35ty4nyc5.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\mj2rohog17-pj5nd1wqec.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\g2oaf5f7vl-46ein0sx1k.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\gnoyhaevpx-v0zj4ognzu.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\8b9wyo4icc-37tfw0ft22.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ub3uzlt25o-hrwsygsryq.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\a3t7wzu77z-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\nfmoxycrdb-ft3s53vfgj.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\lskyjto09z-6cfz1n2cew.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\tfnz5i197t-6pdc2jztkx.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ok2se48dgk-493y06b0oq.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\da8g1sqquj-iovd86k7lj.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\91clj235b9-vr1egmr9el.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\qxqiue6dtn-kbrnm935zg.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\y8sflwtsfc-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\hi37sqyyva-y7v9cxd14o.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\5grwkk54uk-notf2xhcfb.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\4kkjan4r2t-h1s4sie4z3.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\503mpwovak-63fj8s7r0e.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\c137mihhb6-0j3bgjxly4.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\2uvnakudn1-47otxtyo56.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ixkgzkfprq-4v8eqarkd7.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\olfl91pn9g-356vix0kms.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\of0bq887nw-83jwlth58m.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\brqvze7859-mrlpezrjn3.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\vjvjzz6oy6-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\w3szam4y30-ag7o75518u.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\mnfi2jpgxw-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\dccm2ztfn8-0i3buxo5is.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\0o05on1hsm-o1o13a6vjx.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\0oc4s4wet2-ttgo8qnofa.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\g65kkyrdp9-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\vl1duzxrq7-muycvpuwrr.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\69so0ax4o6-87fc7y1x7t.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\7vagug5f5m-mlv21k5csn.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\kidwki6ek2-iv1jepr3qn.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\jxdqe0i4gy-iv1jepr3qn.gz
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets\msbuild.ABC Retailer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets\msbuild.ABC Retailer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets\msbuild.build.ABC Retailer.props
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABC Retailer.props
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.ABC Retailer.props
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Reta.5033ACF2.Up2Date
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\refint\ABC Retailer.dll
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.pdb
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.genruntimeconfig.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ref\ABC Retailer.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\appsettings.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.staticwebassets.runtime.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.staticwebassets.endpoints.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ABC Retailer.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Data.Tables.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Identity.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Storage.Blobs.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Storage.Common.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Storage.Files.Shares.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Azure.Storage.Queues.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Humanizer.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Azure.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Identity.Client.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Net.Http.Headers.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.IO.Hashing.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\scopedcss\bundle\ABC Retailer.styles.css
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\scopedcss\projectbundle\ABC Retailer.bundle.scp.css
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\sgsjt51fvw-b9sayid5wm.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ooz3q8mzvn-61n19gt1b8.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\k7awvsdfyd-xtxxf3hu2r.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\u97qqefwuk-bqjiyaj88i.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\b6r5j7ty8o-c2jlpeoesf.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\zrrs12so4g-erw9l3u2r3.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\d9cqnkzr06-aexeepp0ev.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\u03k7sojog-d7shbmvgxk.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\8xkbycdp7n-ausgxo2sd3.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\bewmne81e4-k8d9w2qqmf.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\9fnc0omrsq-cosvhxvwiu.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\g50mi2mm6w-ub07r2b239.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\hg15cen0v8-fvhpjtyr6v.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\lwydodvvjy-b7pk76d08c.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\xlhvzsd0tx-fsbi9cje9m.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\rcb6d41k10-rzd6atqjts.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ioqnxnchyu-ee0r1s7dh0.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\u2d0bnu6ry-dxx9fxp4il.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\5ul0xvzca0-jd9uben2k1.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\w8o3ozrlll-khv3u5hwcm.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ran7y26h7q-r4e9w2rdcm.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\zbv1t6lv3x-lcd1t2u6c8.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\wv5z8v6h6v-c2oey78nd0.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\fg9m5tok5k-tdbxkamptv.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\5v77vs8ywo-j5mq2jizvt.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ymudlzcvo4-06098lyss8.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\7af1cxkega-nvvlpmu67g.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\qqdq2d8vyy-s35ty4nyc5.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\mj2rohog17-pj5nd1wqec.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\g2oaf5f7vl-46ein0sx1k.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\gnoyhaevpx-v0zj4ognzu.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\8b9wyo4icc-37tfw0ft22.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ub3uzlt25o-hrwsygsryq.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\a3t7wzu77z-pk9g2wxc8p.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\nfmoxycrdb-ft3s53vfgj.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\lskyjto09z-6cfz1n2cew.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\tfnz5i197t-6pdc2jztkx.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ok2se48dgk-493y06b0oq.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\da8g1sqquj-iovd86k7lj.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\91clj235b9-vr1egmr9el.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\qxqiue6dtn-kbrnm935zg.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\y8sflwtsfc-jj8uyg4cgr.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\hi37sqyyva-y7v9cxd14o.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\5grwkk54uk-notf2xhcfb.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\4kkjan4r2t-h1s4sie4z3.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\503mpwovak-63fj8s7r0e.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\c137mihhb6-0j3bgjxly4.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\2uvnakudn1-47otxtyo56.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\ixkgzkfprq-4v8eqarkd7.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\olfl91pn9g-356vix0kms.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\of0bq887nw-83jwlth58m.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\brqvze7859-mrlpezrjn3.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\vjvjzz6oy6-lzl9nlhx6b.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\w3szam4y30-ag7o75518u.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\mnfi2jpgxw-x0q3zqp4vz.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\dccm2ztfn8-0i3buxo5is.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\0o05on1hsm-o1o13a6vjx.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\0oc4s4wet2-ttgo8qnofa.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\g65kkyrdp9-2z0ns9nrw6.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\vl1duzxrq7-muycvpuwrr.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\69so0ax4o6-87fc7y1x7t.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\7vagug5f5m-mlv21k5csn.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\kidwki6ek2-iv1jepr3qn.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\compressed\jxdqe0i4gy-iv1jepr3qn.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Reta.5033ACF2.Up2Date
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\refint\ABC Retailer.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ABC Retailer.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\obj\Release\net9.0\ref\ABC Retailer.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\BCrypt.Net-Next.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Formats.Asn1.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Runtime.Caching.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\System.Text.Json.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ABC Retailer\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll

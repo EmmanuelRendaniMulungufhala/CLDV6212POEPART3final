@@ -1,0 +1,148 @@
+﻿@model ABC_Retailer.Models.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-7">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white">
+                    <h2 class="text-center mb-0">Register for ABC Retailer</h2>
+                </div>
+                <div class="card-body p-4">
+                    @if (TempData["ErrorMessage"] != null)
+                    {
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            @TempData["ErrorMessage"]
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        </div>
+                    }
+
+                    <form asp-action="Register" method="post">
+                        @Html.AntiForgeryToken()
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="Username" class="form-label">
+                                <i class="bi bi-person-badge"></i> Username
+                            </label>
+                            <input asp-for="Username" class="form-control" placeholder="Choose a username"
+                                   autofocus />
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                            <small class="form-text text-muted">This will be used to login</small>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label">
+                                <i class="bi bi-envelope-fill"></i> Email Address
+                            </label>
+                            <input asp-for="Email" class="form-control" type="email"
+                                   placeholder="Enter your email address" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label asp-for="FirstName" class="form-label">
+                                        <i class="bi bi-person"></i> First Name
+                                    </label>
+                                    <input asp-for="FirstName" class="form-control"
+                                           placeholder="Enter first name" />
+                                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label asp-for="LastName" class="form-label">
+                                        <i class="bi bi-person"></i> Last Name
+                                    </label>
+                                    <input asp-for="LastName" class="form-control"
+                                           placeholder="Enter last name" />
+                                    <span asp-validation-for="LastName" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Password" class="form-label">
+                                <i class="bi bi-lock-fill"></i> Password
+                            </label>
+                            <input asp-for="Password" type="password" class="form-control"
+                                   placeholder="Create a strong password" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                            <small class="form-text text-muted">
+                                Must be at least 6 characters long
+                            </small>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ConfirmPassword" class="form-label">
+                                <i class="bi bi-lock-fill"></i> Confirm Password
+                            </label>
+                            <input asp-for="ConfirmPassword" type="password" class="form-control"
+                                   placeholder="Re-enter your password" />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+
+                        <div class="alert alert-info" role="alert">
+                            <i class="bi bi-info-circle-fill"></i>
+                            <strong>Note:</strong> New accounts are created as Customer accounts by default.
+                        </div>
+
+                        <button type="submit" class="btn btn-success w-100 mb-3">
+                            <i class="bi bi-person-plus-fill"></i> Create Account
+                        </button>
+
+                        <div class="text-center">
+                            <p class="mb-0">
+                                Already have an account?
+                                <a asp-action="Login" class="text-decoration-none fw-bold">Login here</a>
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        // Auto-dismiss alerts after 5 seconds
+        setTimeout(function() {
+            $('.alert').fadeOut('slow');
+        }, 5000);
+
+        // Password strength indicator (optional enhancement)
+        $('#Password').on('input', function() {
+            var password = $(this).val();
+            var strength = 0;
+
+            if (password.length >= 6) strength++;
+            if (password.length >= 10) strength++;
+            if (/[a-z]/.test(password) && /[A-Z]/.test(password)) strength++;
+            if (/\d/.test(password)) strength++;
+            if (/[^a-zA-Z\d]/.test(password)) strength++;
+
+            var strengthText = ['Very Weak', 'Weak', 'Fair', 'Good', 'Strong'];
+            var strengthColor = ['danger', 'warning', 'info', 'primary', 'success'];
+
+            if (password.length > 0) {
+                if ($('#passwordStrength').length === 0) {
+                    $(this).after('<small id="passwordStrength" class="form-text"></small>');
+                }
+                $('#passwordStrength').html(
+                    '<span class="text-' + strengthColor[strength] + '">Password Strength: ' +
+                    strengthText[strength] + '</span>'
+                );
+            } else {
+                $('#passwordStrength').remove();
+            }
+        });
+    </script>
+}
